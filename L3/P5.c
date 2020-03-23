@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 /*
-5. Sa se verifice daca operatia BINARA de "SAU" ("OR") aplicata pe un sir de “N” numere intregi citit de la tastatura rezulta un numar par sau impar. NU aveti voie sa folositi “%”, impartire cu rest / modulo.
+5. Sa se verifice daca operatia BINARA de "SAU" ("OR") aplicata pe un sir de â€œNâ€ numere intregi citit de la tastatura rezulta un numar par sau impar. NU aveti voie sa folositi â€œ%â€, impartire cu rest / modulo.
 
 Help: A se consulta tabelul de adevar in cadrul operatilor de tip binary
 
